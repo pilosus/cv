@@ -12,11 +12,17 @@ colorlinks: true
 
 A software developer focused on Python, Clojure and DevOps
 
-Interests: anti-fraud, transaction monitoring, security, data analysis, debugging
-
 Tags: Python, Clojure, Postgres, ClickHouse, Linux, Ansible, Docker
 
-Austria, UTC+01:00
+Interests: anti-fraud, transaction monitoring, security, data analysis, debugging
+
+Languages:
+
+- English (professional working proficiency)
+- German (professional working proficiency)
+- Russian (native proficiency)
+
+Place: Austria, UTC+01:00
 
 Links:
 
@@ -27,7 +33,7 @@ Links:
 ### Summary
 
 - 10 years of Python: Flask, Aiohttp, Django, SQLAlchemy, Pytest
-- 4 years of Clojure
+- 4 years of Clojure: clojure.java.jdbc, next.jdbc, spec
 - Databases: PostgreSQL, MySQL, ClickHouse, BigQuery
 - Infra & DevOps: Linux, Nginx, Ansible, Docker
 - Open-source: [pydantic](https://github.com/pydantic/pydantic)
